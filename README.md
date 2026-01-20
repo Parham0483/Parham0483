@@ -14,13 +14,13 @@
 ### [B2B Order Management System](https://github.com/Parham0483/B2B-Order-Management-System-.git) • Django + React + Docker
 Production system solving real business workflows with atomic transactions and audit trails
 
-### [BookStore REST API](link) • Java EE
+### [BookStore REST API]([link](https://github.com/Parham0483/BookStore.git)) • Java EE
 Enterprise backend with exception handling and comprehensive logging (96.4% grade)
 
-### [Game AI Benchmark](link) • Unity + C#
+### [Game AI Benchmark]([link](https://github.com/Parham0483/GameAi-SpaceStrikes-.git)) • Unity + C#
 A* pathfinding and FSM implementation with performance analysis (91% grade)
 
-### [Spam Classifier](link) • Python + ML
+### [Spam Classifier](https://github.com/Parham0483/Spam-Classifier.git) • Python + ML
 Neural network achieving 96.44% accuracy with TF-IDF features
 
 ---
