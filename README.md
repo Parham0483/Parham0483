@@ -27,7 +27,7 @@ Neural network achieving 96.44% accuracy with TF-IDF features
 
 ## 💻 What I'm Working On
 
-**Current:** RAG-Based AI Chatbot (Final Year Project)  
+### [RAG-Based AI Chatbot](https://github.com/Parham0483/ragbot-project.git) •Final Year Project
 **Learning:** Advanced algorithms, distributed systems, production deployment
 
 ---
